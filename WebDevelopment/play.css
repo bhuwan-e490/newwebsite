@@ -1,0 +1,52 @@
+body{
+    font-style: italic;
+    color: aqua;
+    background-color: brown;
+    width: 450px;
+    border: 5px solid rgb(148, 148, 114);
+   padding: 5px 10px 6px 65px ;
+  transform:translate(70%,100%);
+  text-align: center;
+
+
+
+}
+
+h1{
+    transform:translate(-5%,0%);
+}
+
+
+
+.zero{
+    font-size: 20px;
+    border-radius: 5px;
+    border: 3px solid rgb(170, 233, 23);
+    background-color: antiquewhite;
+    cursor: pointer;
+    position: relative;
+    left: 100px;
+    margin-bottom: 5px 7px  ;
+    padding: 3px ;
+    text-align: center;
+  transform:translate(-200%,5%);
+
+
+}
+.hero{
+       font-size: 20px;
+    border-radius: 5px;
+    border: 3px solid rgb(170, 233, 23);
+    background-color: antiquewhite;
+    cursor: pointer;
+    position: relative;
+    left: 200px;
+    padding: 3px 5px;
+    margin-bottom: 5px;
+  transform:translate(100%,15%);
+  position: absolute;
+  bottom: 5px;
+
+
+    
+}
